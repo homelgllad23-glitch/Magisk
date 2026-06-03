@@ -1,4 +1,4 @@
-# Magisk Documentation
+sha256:450b8ef38ac4608a481283c1acf57363d23956e6a5cfa90afefd988aaeee5e04# Magisk Documentation
 
 - [Installation Instructions](install.md)
 - [Frequently Asked Questions](faq.md)
